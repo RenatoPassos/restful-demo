@@ -1,5 +1,8 @@
+# Config do WebStorm/IntelliJ que não é interessante no VCS
+/.idea/workspace.xml
+
 # Dependências do projeto (libraries)
-node_modules
+/node_modules/
 
 # Windows image file caches
 Thumbs.db
